@@ -1,0 +1,38 @@
+.insertion-sort {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 88vh;
+    width: 100vw; 
+    box-sizing: border-box; 
+    padding: 100px 200px;
+}
+
+.container {
+    border: 2px solid #03AED2; 
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 50px 40px;
+}
+
+.array-items{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.array-items p{
+    width: 15px;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+
+  
